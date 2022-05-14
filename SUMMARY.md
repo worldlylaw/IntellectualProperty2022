@@ -2,6 +2,7 @@
 
 * [目錄](README.md)
 * [緒論](xu-lun.md)
+* [智慧財產法院的管轄](zhi-hui-cai-chan-fa-yuan-de-guan-xia.md)
 * [課程舉例](ke-cheng-ju-li.md)
 
 ## 章節
