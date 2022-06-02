@@ -3,13 +3,15 @@
 * [目錄](README.md)
 * [緒論](xu-lun.md)
 * [智慧財產法院的管轄](zhi-hui-cai-chan-fa-yuan-de-guan-xia.md)
-* [課程舉例](ke-cheng-ju-li.md)
 
 ## 章節
 
-* [商標法](zhang-jie/shang-biao-fa.md)
+* [商標法](zhang-jie/shang-biao-fa/README.md)
+  * [商標法的舉例](zhang-jie/shang-biao-fa/shang-biao-fa-de-ju-li.md)
 * [專利法](zhang-jie/zhuan-li-fa.md)
-* [著作權法](zhang-jie/zhu-zuo-quan-fa.md)
+* [著作權法](zhang-jie/zhu-zuo-quan-fa/README.md)
+  * [著作權法的舉例](zhang-jie/zhu-zuo-quan-fa/zhu-zuo-quan-fa-de-ju-li.md)
+  * [相關判決](zhang-jie/zhu-zuo-quan-fa/xiang-guan-pan-jue.md)
 * [營業秘密法](zhang-jie/ying-ye-mi-mi-fa.md)
 * [積體電路布局保護法](zhang-jie/ji-ti-dian-lu-bu-ju-bao-hu-fa.md)
 * [公平交易法](zhang-jie/gong-ping-jiao-yi-fa.md)
