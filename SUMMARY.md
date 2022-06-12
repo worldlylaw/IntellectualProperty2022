@@ -6,15 +6,15 @@
 
 ## 章節
 
-* [商標法](zhang-jie/shang-biao-fa/README.md)
-  * [時事例子](zhang-jie/shang-biao-fa/shi-shi-li-zi.md)
-  * [商標法的舉例](zhang-jie/shang-biao-fa/shang-biao-fa-de-ju-li.md)
-* [專利法](zhang-jie/zhuan-li-fa.md)
 * [著作權法](zhang-jie/zhu-zuo-quan-fa/README.md)
   * [操作方法](zhang-jie/zhu-zuo-quan-fa/cao-zuo-fang-fa.md)
   * [著作權法的舉例](zhang-jie/zhu-zuo-quan-fa/zhu-zuo-quan-fa-de-ju-li.md)
   * [相關判決](zhang-jie/zhu-zuo-quan-fa/xiang-guan-pan-jue.md)
 * [營業秘密法](zhang-jie/ying-ye-mi-mi-fa.md)
+* [專利法](zhang-jie/zhuan-li-fa.md)
+* [商標法](zhang-jie/shang-biao-fa/README.md)
+  * [時事例子](zhang-jie/shang-biao-fa/shi-shi-li-zi.md)
+  * [商標法的舉例](zhang-jie/shang-biao-fa/shang-biao-fa-de-ju-li.md)
 * [積體電路布局保護法](zhang-jie/ji-ti-dian-lu-bu-ju-bao-hu-fa.md)
 * [公平交易法](zhang-jie/gong-ping-jiao-yi-fa.md)
 
