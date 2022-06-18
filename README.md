@@ -8,7 +8,7 @@
 
 [著作權法](zhang-jie/zhu-zuo-quan-fa/)
 
-[營業秘密法](zhang-jie/ying-ye-mi-mi-fa.md)
+[營業秘密法](zhang-jie/ying-ye-mi-mi-fa/)
 
 [積體電路布局保護法](zhang-jie/ji-ti-dian-lu-bu-ju-bao-hu-fa.md)
 
