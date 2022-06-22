@@ -4,7 +4,7 @@
 
 [商標法](zhang-jie/shang-biao-fa/)
 
-[專利法](zhang-jie/zhuan-li-fa.md)
+[專利法](zhang-jie/zhuan-li-fa/)
 
 [著作權法](zhang-jie/zhu-zuo-quan-fa/)
 
